@@ -27,7 +27,6 @@ stock_app/
 ### 2. Install Dependencies
 
 ```bash
-cd stock_app
 pip install -r requirements.txt
 ```
 
