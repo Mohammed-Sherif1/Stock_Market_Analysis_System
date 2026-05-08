@@ -8,10 +8,10 @@ A web-based application built with **Streamlit** that allows users to view and a
 
 ```
 stock_app/
-├── app.py              # Main Streamlit UI (Member 4)
-├── data_fetcher.py     # API integration & validation (Member 1)
-├── data_processor.py   # Pandas data processing (Member 2)
-├── charts.py           # Plotly visualizations (Member 3)
+├── app.py              # Main Streamlit UI
+├── data_fetcher.py     # API integration & validation
+├── data_processor.py   # Pandas data processing
+├── charts.py           # Plotly visualizations
 ├── requirements.txt    # Python dependencies
 └── README.md           # This file
 ```
@@ -91,7 +91,7 @@ Test the application with:
 | Mohamed Sherif | 202206861 | Backend / API Integration | `data_fetcher.py` |
 | Abram Ashraf | 202206299 |Data Processing | `data_processor.py` |
 | Abanob Hany | 202206816 |Visualization | `charts.py` |
-| Zahraa Mohamed | 202207004 |UI / Testing / Docs | `app.py`, `README.md` |
+| Zahraa Mohamed | 202207004 |UI / Testing / Docs | `app.py` |
 
 ---
 
